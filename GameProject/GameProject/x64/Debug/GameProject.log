@@ -1,0 +1,7 @@
+﻿  Game.cpp
+  GameFunctions.cpp
+  Leaderboard.cpp
+  Menu.cpp
+  Generating Code...
+C:\Users\HP\Desktop\GameProject\GameProject\GameFunctions.cpp(36): warning C4715: 'checkGame': not all control paths return a value
+  GameProject.vcxproj -> C:\Users\HP\Desktop\GameProject\x64\Debug\GameProject.exe
